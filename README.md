@@ -1,0 +1,2 @@
+# anired_resources
+Resources.
